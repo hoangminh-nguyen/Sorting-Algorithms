@@ -1,5 +1,5 @@
 # Sorting-Algorithms
- Implement 12 sorting algorithms from scratch.
+ Implement 12 sorting algorithms from scratch.\
 1	Selection Sort\
 2	Insertion Sort\
 3	Binary-Insertion Sort\
